@@ -9,6 +9,7 @@ Welcome to my college coursework repository! This repository is dedicated to sto
 The project is structured as follows to keep class exercises and independent homework assignments distinct:
 
 ```text
+text
 ├── DSA/
 │   ├── Class Work/
 │   │   ├── Linked List/
@@ -20,11 +21,14 @@ The project is structured as follows to keep class exercises and independent hom
 │       ├── Linked List/
 │       ├── Queue/
 │       ├── Recursion/
-│       └── Stack/
+│       ├── Sorting and Searching/
+│       ├── Stack/
+│       └── Tree/
 ├── Progress/
-├── output/
 └── README.md
 ```
+
+
 # 📚 Topics Covered
 ## 🔹 Class Work
 These are the implementations, algorithms, and exercises coded during lecture sessions:
