@@ -4,8 +4,8 @@ using namespace std;
 struct Queue{
     int *arr;
     int capacity;
-    int front;  // Add front pointer
-    int rear;   // Add rear pointer
+    int front; 
+    int rear;   
     int size;
 };
 
@@ -67,9 +67,9 @@ int main(){
     enqueue(9,q);
     dequeue(q);
     enqueue(10,q);
-    show(q);  // Output: 6 7 8 9 10
+    show(q); 
     
-    // Clean up memory
+    
     delete[] q->arr;
     delete q;
 }
