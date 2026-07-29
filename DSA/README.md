@@ -1,6 +1,6 @@
-# College Work: Data Structures & Algorithms (DSA)
+# Data Structures & Algorithms (DSA)
 
-Welcome to my college coursework repository! This repository is dedicated to storing and tracking my progress in **Data Structures and Algorithms (DSA)**. It includes organized folders for class activities, lab work, homework, and overall progress tracking.
+This Directory is dedicated to storing and tracking my progress in **Data Structures and Algorithms (DSA)**. It includes organized folders for class activities, lab work, homework, and overall progress tracking.
 
 ---
 
@@ -47,9 +47,12 @@ These are the implementations, algorithms, and exercises coded during lecture se
 Independent assignments and practice problems completed outside of class to reinforce theoritical concepts:
 
 - **Linked List**: Linked List: Advanced node manipulation and edge-case challenges.
+
 - **Queue**: FIFO (First-In, First-Out) operations, circular queues, or dequeues.
 
 - **Recursion**: Complex problem-solving exercises.
+
+- **Sorting & Searching**: Various method of sorting ( )
 
 - **Stack**: Bracket matching, infix-to-postfix conversions, and stack-based utility problems.
 
